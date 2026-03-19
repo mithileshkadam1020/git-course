@@ -1,1 +1,3 @@
 Add or remove admin details
+
+Added lite feature

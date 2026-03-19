@@ -1,7 +1,6 @@
 Get the user data
 Processing some date
 
-Createing an avatar for user
 
 login logout function added
 change
