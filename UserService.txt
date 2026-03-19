@@ -4,4 +4,9 @@ Processing some date
 Createing an avatar for user
 
 login logout function added
+<<<<<<< HEAD
 change
+=======
+
+change
+>>>>>>> 626ef93 (changes in main)
